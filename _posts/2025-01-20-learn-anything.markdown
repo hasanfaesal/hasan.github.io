@@ -12,19 +12,24 @@ As humans we must always adhere to some goals, seeking knowledge and truth is on
 
 However, I was a person who never liked studying. I can say that I've wasted my life upto getting admission in University.
 
-Understanding how the system works took me an awful lot of a semester, and why it is like that and doesn't change maybe another 4 months. I tried changing it, didn't work out. I thought to myself, what can I do now? 
+Understanding how the education system works took me my first semester and why it is like that and doesn't change maybe another 4 months. I tried changing it, didn't work out. I thought to myself, what can I do now? 
 
 # First thing to learn in this age
-Over the course of 4 months, I learnt a basic but important thing : "How to use the Internet". I didn't knew that the Internet had all of the answers, you just have to find them and trust me alot of people still don't know it. Perhaps, LLMs are changing this?. Everything is available on the Internet, mostly for free so why are you holding back?
+Over the course of 4 months, I learnt a basic but important thing : "How to use the Internet". I didn't knew that the Internet had all of the answers, you just have to find them and trust me alot of people still don't know it. 
+Perhaps, LLMs are changing this? Perplexity is a great answer engine which makes this easier.
+Everything is available on the Internet, mostly for free so why was I holding back?
+
 To this day, still I'm discovering the best practices of using the Internet. This is one [article](https://www.catb.org/esr/faqs/smart-questions.html) I've read recently on how to ask questions the correct way.
 
 # The start of my journey
-In my 2nd semester, I asked for advice from a senior regarding what to do? Having so much time, I wanted to invest in myself. He told me to start learning Data Structures and Algorithms. I followed his advice and covered the majority of the course in 2.5 months. I continued to study Machine Learning in my summer vacations.
+In my 2nd semester, I asked for advice from a senior regarding what to do in my free time? I wanted to invest in myself having enough time. He told me to start learning Data Structures and Algorithms and I followed his advice and covered the majority of the course in 2.5 months. I continued to study Machine Learning in my summer vacations.
+
 
 # Reviewing back on time
 I scrolled through my gallery to view old photos and I stumbled upon this one.
 
-//insert image
+![Image of a roadmap upto 8 months]("assets/images/learn-anything1.jpg")
+
 
 One thing went through my mind, I'm better than I was 1 year ago. Throughout this year, I had my ups and downs thinking that will I ever be a professional? The answer is quite certain, your confidence increases as your learning does.
 

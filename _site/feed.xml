@@ -1,27 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-21T14:14:09+05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hasan Faisal</title><subtitle>Feel free to reach out!</subtitle><entry><title type="html">You can learn anything, given enough time</title><link href="http://localhost:4000/jekyll/update/2025/01/20/learn-anything.html" rel="alternate" type="text/html" title="You can learn anything, given enough time" /><published>2025-01-20T00:32:58+05:00</published><updated>2025-01-20T00:32:58+05:00</updated><id>http://localhost:4000/jekyll/update/2025/01/20/learn-anything</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/01/20/learn-anything.html"><![CDATA[<p>This is the continuation to my LinkedIn <a href="https://www.linkedin.com/posts/hasanfaesal_you-can-learn-anything-given-enough-time-activity-7276710765573607424-cFrE?utm_source=share&amp;utm_medium=member_desktop">post</a></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-05T02:24:27+05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hasan Faisal</title><subtitle>Feel free to reach out!</subtitle><entry><title type="html">You can learn anything, given enough time</title><link href="http://localhost:4000/jekyll/update/2025/01/20/learn-anything.html" rel="alternate" type="text/html" title="You can learn anything, given enough time" /><published>2025-01-20T00:32:58+05:00</published><updated>2025-01-20T00:32:58+05:00</updated><id>http://localhost:4000/jekyll/update/2025/01/20/learn-anything</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/01/20/learn-anything.html"><![CDATA[<p>**incomplete but just pushed the changes idk why</p>
 
-<p>As humans we must always adhere to some goals, seeking knowledge and truth is one of them. Hence, one must keep on learning till death. “Lifelong student” is a term that describes this the best.</p>
+<p>This is the continuation to my LinkedIn <a href="https://www.linkedin.com/posts/hasanfaesal_you-can-learn-anything-given-enough-time-activity-7276710765573607424-cFrE?utm_source=share&amp;utm_medium=member_desktop">post</a></p>
 
-<p>However, I was a person who never liked studying till now. I can say that I’ve wasted my life upto getting admission in University.</p>
+<p>As humans we must always adhere to some goals, seeking knowledge and truth is one of them. Hence, one must keep on learning till death. “Lifelong student” is a term that describes this best.</p>
 
-<p>Understanding how the system works took me an awful lot of a semester, and why it is like that maybe another 4 months. I tried changing it, didn’t work out. I thought to myself, what can I do now?</p>
+<p>However, I was a person who never liked studying. I can say that I’ve wasted my life upto getting admission in University.</p>
+
+<p>Understanding how the education system works took me my first semester and why it is like that and doesn’t change maybe another 4 months. I tried changing it, didn’t work out. I thought to myself, what can I do now?</p>
 
 <h1 id="first-thing-to-learn-in-this-age">First thing to learn in this age</h1>
-<p>Over the course of 4 months, I learnt a basic but important thing : “How to use the Internet”. I didn’t knew that the Internet was a really interesting place and trust me alot of people still don’t know it. Perhaps, LLMs are changing this from a different perspective. Everything is available on the Internet, mostly for free so why are you holding back?</p>
+<p>Over the course of 4 months, I learnt a basic but important thing : “How to use the Internet”. I didn’t knew that the Internet had all of the answers, you just have to find them and trust me alot of people still don’t know it. 
+Perhaps, LLMs are changing this? Perplexity is a great answer engine which makes this easier.
+Everything is available on the Internet, mostly for free so why was I holding back?</p>
 
-<h1 id="the-start-of-my-journey---tutorial-hell">The start of my journey - tutorial hell?</h1>
-<p>In my 2nd semester, I asked advice from a senior regarding what to do? Having so much time, I wanted to invest in myself. He told me to start learning Data Structures and Algorithms. I followed his advice and covered the majority of the course in 2.5 months. I continued to study Machine Learning in my summer vacations.</p>
+<p>To this day, still I’m discovering the best practices of using the Internet. This is one <a href="https://www.catb.org/esr/faqs/smart-questions.html">article</a> I’ve read recently on how to ask questions the correct way.</p>
+
+<h1 id="the-start-of-my-journey">The start of my journey</h1>
+<p>In my 2nd semester, I asked for advice from a senior regarding what to do in my free time? I wanted to invest in myself having enough time. He told me to start learning Data Structures and Algorithms and I followed his advice and covered the majority of the course in 2.5 months. I continued to study Machine Learning in my summer vacations.</p>
 
 <h1 id="reviewing-back-on-time">Reviewing back on time</h1>
-
 <p>I scrolled through my gallery to view old photos and I stumbled upon this one.</p>
 
-<p>//insert image</p>
+<p><img src="&quot;assets/images/learn-anything1.jpg&quot;" alt="Image of a roadmap upto 8 months" /></p>
 
 <p>One thing went through my mind, I’m better than I was 1 year ago. Throughout this year, I had my ups and downs thinking that will I ever be a professional? The answer is quite certain, your confidence increases as your learning does.</p>
+
+<h1 id="never-finished">Never finished</h1>
+<p>I believe I should’ve done more in this time span. I could’ve done more, however I’ll implement the practices I’ve learnt further in my journey.</p>
 
 <h1 id="learn-anything">Learn Anything</h1>
 <p>The conclusion I draw is one can learn anything, given enough time and effort. I had never studied Computer Science before in my life but alot has changed within the time span of a year. A year earlier, I could never have imagined myself learning these disciplines and doing these <a href="https://github.com/hasanfaesal">projects</a> and yet here I am.
 This is best described in Sal Khan’s TED <a href="https://youtu.be/-MTRxRO5SRA?si=DZHaysO6NFOglQ1D">talk</a></p>
 
-<p>I have more to do.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[This is the continuation to my LinkedIn post]]></summary></entry></feed>
+<p>I have more to do.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[**incomplete but just pushed the changes idk why]]></summary></entry></feed>
