@@ -28,13 +28,14 @@ In my 2nd semester, I asked for advice from a senior regarding what to do in my 
 # Reviewing back on time
 I scrolled through my gallery to view old photos and I stumbled upon this one.
 
-![Image of a roadmap upto 8 months]("assets/images/learn-anything1.jpg")
+<!-- Option 1: Using site root-relative path -->
+![roadmap upto 8 months](/assets/images/learn-anything1.jpg)
 
-
-One thing went through my mind, I'm better than I was 1 year ago. Throughout this year, I had my ups and downs thinking that will I ever be a professional? The answer is quite certain, your confidence increases as your learning does.
+One thing went through my mind, I'm better than I was 1 year ago. Throughout this year, I had been continuously doubting myself that whether I'll be capable enough or not. The answer is quite certain, your confidence increases as your learning does. You gain certainity in your abilities.
 
 # Never finished
 I believe I should've done more in this time span. I could've done more, however I'll implement the practices I've learnt further in my journey. 
+"The best way to learn is by doing"
 
 # Learn Anything
 The conclusion I draw is one can learn anything, given enough time and effort. I had never studied Computer Science before in my life but alot has changed within the time span of a year. A year earlier, I could never have imagined myself learning these disciplines and doing these [projects](https://github.com/hasanfaesal) and yet here I am.
