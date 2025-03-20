@@ -3,7 +3,6 @@ layout: page
 permalink: /
 ---
 ## About Me
-
 I'm a student of Artificial Intelligence and my current interest lies in Computer Vision, Voice AI and deployment of large scale AI applications. I belong from Wah Cantt, Pakistan and live in Rawalpindi.
 
 I'm currently enrolled in my undergraduate degree from Bahria University where I started my academic life to become a future software developer. Prior to this, I was a student of Army Public School and College where I completed my Matriculation and FsC.

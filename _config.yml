@@ -46,10 +46,11 @@ include:
 # exclude:
 #   - index.markdown
 
-# header_pages:
-#   - index.md
-#   - blog.md
-
+header_pages:
+  - blog.markdown
+  - certifications.markdown
+  - projects.markdown
+  - resume.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
