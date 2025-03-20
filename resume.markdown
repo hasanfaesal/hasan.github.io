@@ -1,6 +1,6 @@
 ---
 layout: none    # or use page?
-title: "Resume"
+title: "CV"
 permalink: /resume/
 ---
 

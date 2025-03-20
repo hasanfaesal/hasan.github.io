@@ -26,7 +26,7 @@
 title: Hasan Faisal
 email: hasanfaesal@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Feel free to reach out!
+  an AI Student
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hasanfaesal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hasanfaisall
@@ -42,6 +42,14 @@ plugins:
 
 include:
   - assets
+
+# exclude:
+#   - index.markdown
+
+# header_pages:
+#   - index.md
+#   - blog.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
